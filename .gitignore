@@ -1,0 +1,11 @@
+/__pycache__/
+/.venv/
+.env
+*.pyc
+
+# Specific to Flet
+dist/
+build/
+
+# Large media (optional, but good to know)
+# If your video is over 100MB, GitHub will block the upload.
